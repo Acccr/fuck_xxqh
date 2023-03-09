@@ -1,0 +1,7 @@
+server:
+    port: 9201
+
+#微信相关配置
+magicphoto:
+    #刷新token的时间 秒
+    accesstokentime: 7200
